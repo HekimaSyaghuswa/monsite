@@ -15,7 +15,7 @@ blockquote { border-left: 4px solid #FFD700 !important; color: white !important;
 > Un espace pour comprendre, prier et célébrer.
 
 <div style="text-align:center;">
-<<img src="/monsite/image2.jpg"> style="width:80%; border-radius:12px;">
+<img src="/monsite/image2.jpg" style="width:80%; border-radius:12px;">
 </div>
 
 ## Ce que tu vas trouver ici
@@ -25,5 +25,6 @@ blockquote { border-left: 4px solid #FFD700 !important; color: white !important;
 - [Prières](/prieres)
 
 <div style="text-align:center;">
-<img src="/image2.jpg" style="width:80%; border-radius:12px;">
+<img src="/monsite/image1.jpg" style="width:80%; border-radius:12px;">
+<img src="/monsite/image3.jpg" style="width:80%; border-radius:12px;">
 </div>
