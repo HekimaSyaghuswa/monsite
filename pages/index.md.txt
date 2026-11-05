@@ -1,0 +1,21 @@
+---
+title: "Accueil"
+---
+
+# Bienvenue sur Hekima's Liturgical Information
+
+> *Un espace pour comprendre, prier et célébrer.*
+
+![Eglise](/images/eglise.jpg)
+
+## Ce que tu vas trouver ici
+
+- **Calendrier liturgique** - Les temps forts de l'année
+- **Lectures du jour** - Méditations quotidiennes
+- **Prières** - Pour chaque moment
+
+---
+
+### Notre mission
+
+Aider chacun à vivre sa foi avec beauté et profondeur.
