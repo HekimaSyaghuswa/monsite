@@ -23,3 +23,32 @@ article time {
   margin-bottom: $gap;
   color: var(--pico-muted-color);
 }
+#menu-btn {
+  display: none;
+  background: #FFD700;
+  color: #0A4A8A;
+  border: none;
+  padding: 8px 15px;
+  font-size: 18px;
+  font-weight: bold;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+/* Sur téléphone : on cache le menu et on montre le bouton */
+@media (max-width: 768px) {
+  #menu-btn {
+    display: block;
+    margin-left: auto;
+  }
+  #menu {
+    display: none;
+    flex-direction: column;
+    background: #0A4A8A;
+    padding: 10px;
+    border-radius: 10px;
+  }
+  #menu.ouvert {
+    display: flex;
+  }
+}

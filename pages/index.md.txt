@@ -6,7 +6,7 @@ title: "Accueil"
 
 > *Un espace pour comprendre, prier et célébrer.*
 
-![Eglise](/monsite/images/eglise.jpg)
+![Eglise](/monsite/eglise.jpg)
 
 ## Ce que tu vas trouver ici
 
