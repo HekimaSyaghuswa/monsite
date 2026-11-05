@@ -15,7 +15,7 @@ blockquote { border-left: 4px solid #FFD700 !important; color: white !important;
 > Un espace pour comprendre, prier et célébrer.
 
 <div style="text-align:center;">
-<img src="/image1.jpg" style="width:80%; border-radius:12px;">
+<<img src="/monsite/images/image2.jpg"> style="width:80%; border-radius:12px;">
 </div>
 
 ## Ce que tu vas trouver ici
